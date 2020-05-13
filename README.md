@@ -1,0 +1,1 @@
+Working on the dataset RAVDESS, extracting features from audio files (MCFFs), fetching these features into a Convolution Neural  Network to classify speech emotion into 5 categories which are calm, happy, angry, fearful, sad. The accuracy of the model is about 90%.
