@@ -14,6 +14,8 @@ Audio files characteristics and feature extraction
   @Jonathan Hui - Visualiza MFCCs features extracting 
   ![Screenshot from 2020-06-03 16-18-51](https://user-images.githubusercontent.com/48004894/83607611-7ee83700-a5b6-11ea-8f35-60bdc05ba1c6.png)
   MFCCs features and labels for it
+  ![Screenshot from 2020-06-03 16-25-47](https://user-images.githubusercontent.com/48004894/83607908-f7e78e80-a5b6-11ea-800d-3500abd95f86.png)
+  CNN Model 
   
 ### Evaluation
 Accuracy is about 90%
