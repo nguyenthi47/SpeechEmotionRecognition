@@ -11,7 +11,7 @@ Audio files characteristics and feature extraction
   Sample rate: 44100Hz
   For each audio, using LibROSA to extract the sound mfccs features and tag the emotion label
   ![alt text](https://miro.medium.com/max/1400/1*0b1UYIC-tP-TpPmAOudwLQ.png)
-  @Jonathan Hui
+  @Jonathan Hui - Visualiza MFCCs features extracting 
   
   MFCCs features and label
 ### Evaluation
