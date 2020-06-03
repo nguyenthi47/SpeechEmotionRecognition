@@ -12,7 +12,8 @@ Audio files characteristics and feature extraction
   For each audio, using LibROSA to extract the sound mfccs features and tag the emotion label
   ![alt text](https://miro.medium.com/max/1400/1*0b1UYIC-tP-TpPmAOudwLQ.png)
   @Jonathan Hui - Visualiza MFCCs features extracting 
+  ![Screenshot from 2020-06-03 16-18-51](https://user-images.githubusercontent.com/48004894/83607611-7ee83700-a5b6-11ea-8f35-60bdc05ba1c6.png)
+  MFCCs features and labels for it
   
-  MFCCs features and label
 ### Evaluation
 Accuracy is about 90%
